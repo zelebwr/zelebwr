@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Zelig</h1>
-<h3 align="center">A passionate full stack developer from Indonesia t</h3>
+<h3 align="center">A passionate full stack developer from Indonesia</h3>
 
 - 🌱 I’m currently trying to develop my skill in **Web Development and Cyber Security**
 
